@@ -1,4 +1,4 @@
-
+[SecureDApp](https://securedapp.in/) - Smart contract Auditing site
 ![](DG4IEcsUIAAje5w.jpg)
 
 ## List of companies and organizations that did not sign or dropped from the NYA *(aka B2X or SegWit2x)*
